@@ -1,4 +1,4 @@
-# 💥 FREE IP STRESSER PHP UDP SHELL
+# 💥 FREE IP STRESSER / BOOTER PHP UDP SHELL
 
 A simple PHP script to send UDP packets to a specified IP and port for stress testing your own hardware. Use responsibly!
 
